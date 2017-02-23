@@ -43,8 +43,8 @@
 /*
 #define MQTT_SERVER             "m21.cloudmqtt.com"
 #define MQTT_PORT               16679
-#define MQTT_USER               "vvfhhg"
-#define MQTT_KEY                "t8qSaasKTgVeew"
+#define MQTT_USER               ""
+#define MQTT_KEY                ""
 */
 
 

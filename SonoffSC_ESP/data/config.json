@@ -9,7 +9,7 @@
   "updateInterval": "5",
   "MQTT_SERVER":"m21.cloudmqtt.com",
   "MQTT_PORT":"16679",
-  "MQTT_USER":"bymhmwii",
-  "MQTT_KEY":"t8nSXsKTgVCA",
+  "MQTT_USER":"youruser",
+  "MQTT_KEY":"yourkey",
   "MQTT_TOPIC":"/feeds"
 }
